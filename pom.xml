@@ -52,7 +52,7 @@
           <schemaVersion>V2</schemaVersion>
           <resourceGroup>Devlearn_Springapp</resourceGroup>
           <appName>DevlearnAPI</appName>
-          <pricingTier>Free</pricingTier>
+          <pricingTier>F1</pricingTier>
           <region>Central US</region>
           <runtime>
             <os>linux</os>
