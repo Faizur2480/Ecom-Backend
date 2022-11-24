@@ -55,8 +55,8 @@
           <pricingTier>F1</pricingTier>
           <region>Central US</region>
           <runtime>
-            <os>linux</os>
-            <javaVersion>jre8</javaVersion>
+            <os>windows</os>
+            <javaVersion>1.8</javaVersion>
             <webContainer>jre8</webContainer>
           </runtime>
           <deployment>
