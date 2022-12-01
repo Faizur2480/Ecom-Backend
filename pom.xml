@@ -57,7 +57,7 @@
           <runtime>
             <os>windows</os>
             <javaVersion>1.8</javaVersion>
-            <webContainer>jre8</webContainer>
+            <webContainer>8.5</webContainer>
           </runtime>
           <appSettings>
              <property>
